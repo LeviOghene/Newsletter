@@ -17,6 +17,7 @@ body{
 
 .sign-up{
     color: var(--Charcoal-Grey);
+    flex-direction: column;
 }
 
 .success-img{
